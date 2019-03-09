@@ -7,7 +7,7 @@
 <h3 align="center">Datenbanken - für Anfänger und Profis</h3>
 
 <p align="center">
-  Datenbanken-verstehen.de ist das Portal rund um Datenbanken, Data Warehouse und Business Intelligence. Hier werden alle fündig, die sich theoretisch im Zuge des Studiums oder in der Praxis mit dem Thema Datenbanken beschäftigen müssen beziehungsweise wollen. Dabei versuchen wir die verschiedenen Datenbank-Themen so verständlich wie möglich zu beschreiben, so dass auch Einsteiger schnell einen Einstieg in die Materie finden.
+  Datenbanken-verstehen.de ist das Portal rund um <strong>Datenbanken, Data Warehouse und Business Intelligence</strong>. Hier werden alle fündig, die sich theoretisch im Zuge des <strong>Studiums oder in der Praxis</strong> mit dem Thema <strong>Datenbanken</strong> beschäftigen müssen beziehungsweise wollen. Dabei versuchen wir die verschiedenen <strong>Datenbank</strong>-Themen so verständlich wie möglich zu beschreiben, so dass auch <strong>Einsteiger schnell einen Einstieg in die Materie finden</strong>.
   <br>
   <br>
   <a href="http://www.datenbanken-verstehen.de/"><strong>Datenbank-verstehen.de besuchen »</strong></a>
