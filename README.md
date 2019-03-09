@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.datenbanken-verstehen.de/">
-    <img src="http://www.datenbanken-verstehen.de/dbv/uploads/dbv_favicon.png" alt="Datenbanken" width="72" height="72">
+    <img src="http://www.datenbanken-verstehen.de/dbv/uploads/datenbanken.png" alt="Datenbanken">
   </a>
 </p>
 
