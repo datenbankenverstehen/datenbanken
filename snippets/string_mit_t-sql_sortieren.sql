@@ -1,6 +1,6 @@
 /*
 Copyright by Datenbanken-verstehen.de
-Quelle: http://www.datenbanken-verstehen.de/
+Quelle: http://www.datenbanken-verstehen.de/blog/sql-tsql-plsql/string-mit-t-sql-sortieren/
 */
 
 DECLARE 
