@@ -15,7 +15,7 @@
   <br>
   <a href="http://www.datenbanken-verstehen.de/">Datenbank Portal</a>
   ·
-  <a href="http://www.datenbanken-verstehen.de/blog">Datenbank Blog</a>
+  <a href="http://www.datenbanken-verstehen.de/blog/">Datenbank Blog</a>
   ·
-  <a href="http://www.datenbanken-verstehen.de/forum">Datenbank Forum</a>
+  <a href="http://www.datenbanken-verstehen.de/lexikon/">Datenbank Lexikon</a>
 </p>
